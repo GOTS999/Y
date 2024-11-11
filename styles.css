@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: mediumslateblue;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 500px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 70px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 10);
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.profile {
+  text-align: center;
+}
+
+.profile img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile h2 {
+  margin: 25px 5 10px;
+  color: #555;
+}
+
+.profile p {
+  margin: 10px 5;
+  color: #777;
+}
